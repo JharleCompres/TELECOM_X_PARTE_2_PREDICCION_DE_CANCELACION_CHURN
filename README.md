@@ -1,4 +1,3 @@
-```markdown
 # 📉 Telecom X — Predicción de Cancelación de Clientes (Churn)
 
 Proyecto de **Ciencia de Datos y Machine Learning** enfocado en la detección temprana de clientes con alta probabilidad de abandonar los servicios de una empresa de telecomunicaciones.
@@ -43,28 +42,22 @@ El proyecto sigue un flujo completo de **Machine Learning aplicado**:
 ---
 
 # 📂 Estructura del Proyecto
+```bash
 
+Telecom_X_prediccion_cancelacion_churn.ipynb
+Notebook principal con todo el análisis
+               ⬇️
+Analisis_Telecom_X_Limpio_y_Transformado
+Dataset limpio utilizado para el entrenamiento
+               ⬇️
+modelo_churn_random_forest_pipeline.pkl
+Modelo final exportado
+               ⬇️
+Requeriments.txt
+Librerías necesarias para reproducir el proyecto
+               ⬇️
+            README.md
 ```
-
-telecom-churn-prediction/
-
-│
-├── Telecom_X_prediccion_cancelacion_churn.ipynb
-│   Notebook principal con todo el análisis
-│
-├── Analisis_Telecom_X_Limpio_y_Transformado
-│   Dataset limpio utilizado para el entrenamiento
-│
-├── modelo_churn_random_forest_pipeline.pkl
-│   Modelo final exportado
-│
-├── Requeriments.txt
-│   Librerías necesarias para reproducir el proyecto
-│
-└── README.md
-
-````
-
 ---
 
 # 📊 Dataset
